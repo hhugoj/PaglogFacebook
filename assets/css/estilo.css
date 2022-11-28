@@ -1,0 +1,17 @@
+
+.crea{
+    text-decoration: none;
+    color: black;
+}
+.container{
+    background: #f0f2f5;
+    width: 100px;
+}
+.footer a{
+    
+    font-size: small;
+    text-decoration: none;
+    background-color: white;
+    color: rgba(84, 86, 88, 0.747);
+
+}
